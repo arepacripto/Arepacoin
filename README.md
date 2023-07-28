@@ -17,7 +17,6 @@ Los bloques minables mediante PoW tienen una recompensa generada de la siguiente
 LINKS
 ==========================
 * Pagina Oficial (https://arepacoin.info/)
-* Foro Oficial (https://bitcointalk.org/index.php?topic=2931570)
 * Twitter Arepacoin (https://twitter.com/arepacripto_org)
 * Grupo Telegram Arepacoin (https://t.me/Arepacripto)
 
@@ -29,10 +28,10 @@ Escribir en la terminal los siguientes comandos:
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install git
-git clone https://github.com/ProjectArepa/Arepacoin
+git clone https://github.com/arepacripto/Arepacoin_Oficial.git
 cd Arepacoin
 
 ## Para Ubuntu 16.04 y 18.04.
 ./Compile.sh
 ./Arepacoin-qt
-```
+
