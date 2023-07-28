@@ -5,7 +5,7 @@ installAptLibs16Qt() {
     sudo apt-get -y update
     sudo apt-get -y install  \
       qt5-default qt5-qmake qtbase5-dev-tools qttools5-dev-tools software-properties-common build-essential \
-      libssl-dev libdb++-dev libboost-all-dev libqrencode-dev qrencode libminiupnpc-dev automake autoconf \
+      libssl1.0-dev libdb++-dev libboost-all-dev libqrencode-dev qrencode libminiupnpc-dev automake autoconf \
       git pkg-config libcurl4-openssl-dev libjansson-dev libgmp-dev make g++ gcc
 }
 
