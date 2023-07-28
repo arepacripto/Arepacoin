@@ -28,7 +28,7 @@ Escribir en la terminal los siguientes comandos:
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install git
-git clone https://github.com/arepacripto/Arepacoin_Oficial.git
+git clone https://github.com/arepacripto/Arepacoin.git
 cd Arepacoin
 
 ## Para Ubuntu 16.04 y 18.04.
