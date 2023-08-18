@@ -19,6 +19,7 @@ LINKS
 * Pagina Oficial (https://arepacoin.info/)
 * Twitter Arepacoin (https://twitter.com/arepacripto_org)
 * Grupo Telegram Arepacoin (https://t.me/Arepacripto)
+* Desarrollo y consultas (developer@arepacripto.org)
 
 Procedimiento para compilar la billeterá virtual en Ubuntu GNU/Linux:
 ==========================
