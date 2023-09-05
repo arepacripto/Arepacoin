@@ -13,6 +13,7 @@ Los bloques minables mediante PoW tienen una recompensa generada de la siguiente
 * Bloques 700001 hasta 1000000 tendran una recompensa de 6 Arepas.
 * Bloques 1000001 hasta 2000000 tendran una recompensa de 3 Arepas.
 * Bloques 2000001 en adelante tendran una recompensa de 1 Arepa.
+* After block 5741000 the chain becomes only PoS.
 
 LINKS
 ==========================
